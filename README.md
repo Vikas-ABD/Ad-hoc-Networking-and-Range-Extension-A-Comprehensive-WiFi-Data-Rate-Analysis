@@ -44,4 +44,8 @@ Summarize key insights, lessons learned, and areas for future improvement.
 
 ## Project Image
 
+## Project sample one of the result
+
 ![Project Image](raspberrypi-result_without_wifi_adapter.png)
+
+
